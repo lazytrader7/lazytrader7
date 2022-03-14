@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazytrader7
-- 👀 I’m interested in blockchains
-- 🌱 I’m currently learning solodity
+- 👀 I’have good knowledge on Ethereum and Solana Blockchains
+- 🌱 I’m developing DAPPS using Solidity, Rust, Anchor
 - 💞️ I’m looking to collaborate on developing blockchains and dapps
 
 <!---
